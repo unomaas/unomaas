@@ -3,7 +3,7 @@
 </div>  
   
 
-## Hello and welcome to my GitHub!
+## Hello, and welcome to my GitHub!
 
   
   
@@ -11,13 +11,13 @@
 - I'm a Full-stack Software Engineer, based out of the greater Minneapolis-St. Paul area! ✌️  
   
 
-- I'm passionate about documentation and attention-to-detail.  Don't make me document your code for you! ☠️  
+- I'm passionate about documentation and attention-to-detail! 📚
   
 
 - Ask me anything!  I'd love to connect and nerd-out over similar interests!❓  
   
 
-- Fun Fact: I'm learning how to juggle! 🥎  
+- Fun fact: I'm learning how to juggle! 🥎  
   
 
 - [Checkout my portfolio here!](https://unomaas.github.io/) 🔥  
@@ -26,7 +26,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set:
 <table><tr><td valign="top" width="50%">
 
 
@@ -66,7 +66,7 @@
 <br/>  
 
 
-## Want to connect?  
+## Want to Connect?  
 <a href="https://linkedin.com/in/ryan-maas-0814" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
