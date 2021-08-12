@@ -17,7 +17,7 @@
 - Ask me anything!  I'd love to connect and nerd-out over similar interests!❓  
   
 
-- Fun fact: I'm learning how to juggle! 🥎  
+- Fun fact: I'm learning how to juggle! 🤹
   
 
 - [Checkout my portfolio here!](https://unomaas.github.io/) 🔥  
