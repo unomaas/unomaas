@@ -8,7 +8,7 @@
   
   
 
-- I'm a Full-stack Software Engineer, based out of the greater Minneapolis-St. Paul area! ✌️  
+- I'm a Full-stack Software Engineer, based out of the greater Minneapolis/St. Paul area! ✌️  
   
 
 - I'm passionate about documentation and attention-to-detail! 📚
