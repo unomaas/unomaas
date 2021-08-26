@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/y3PDrl0.jpg" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/y3PDrl0.jpg" align="center" style="width: 100%; height: 200px;" />
 </div>  
   
 
@@ -11,10 +11,10 @@
 - I'm a Full-stack Software Engineer, based out of the greater Minneapolis/St. Paul area! ✌️  
   
 
-- I'm passionate about documentation and incredibly minute details! 📚
+- I'm passionate about documentation and *minute details*! 📚
   
 
-- Ask me anything!  I'd love to connect and nerd-out over similar interests!❓  
+- Ask me anything, I'd love to connect and nerd-out over similar interests!❓  
   
 
 - Fun fact: I'm learning how to juggle! 🤹
