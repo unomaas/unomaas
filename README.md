@@ -11,7 +11,7 @@
 - I'm a Full-stack Software Engineer, based out of the greater Minneapolis/St. Paul area! ✌️  
   
 
-- I'm passionate about documentation and *detail!* 📚
+- I'm passionate about **documentation** and *detail!* 📚
   
 
 - Ask me anything, I'd love to connect and nerd-out over similar interests!❓  
